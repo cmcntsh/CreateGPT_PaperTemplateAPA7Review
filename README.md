@@ -1,8 +1,8 @@
 # Create GPT: Paper Template and APA7 Review
 
-[Placeholder: YouTube image]
+[![Watch the video](https://img.youtube.com/vi/VK5WNQN0j8A/maxresdefault.jpg)](https://youtu.be/VK5WNQN0j8A)
 
-[Placeholder: YouTube link]
+### [Watch this video on YouTube](https://youtu.be/VK5WNQN0j8A)
 
 Link to GPT (won't work until sharing turned on): 
 
