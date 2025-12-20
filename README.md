@@ -36,6 +36,8 @@ Are tables located at the end of the paper after the references?
 Are tables formatted correctly? https://apastyle.apa.org/style-grammar-guidelines/tables-figures/tables
 Are figures located at the end of the paper after the references and the tables?
 Are figures formatted correctly? https://apastyle.apa.org/style-grammar-guidelines/tables-figures/figures
+Are there appendices at the end of the paper after the tables and figures?
+Are the appendices formatted correctly?
 ```
 
 **Conversation starters**
