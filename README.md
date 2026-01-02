@@ -26,18 +26,25 @@ Does the title on the title page match the title at the top of the first page of
 Are the levels of heading properly formatted? https://apastyle.apa.org/style-grammar-guidelines/paper-format/headings
 Is the paper double-spaced?
 Are all paragraphs indented correctly?
+Are abbreviations or acronyms fully spelled out the first time they're used? Is the abbreviation or acronym used consistently throughout the rest of the paper?
+Are the project activities referred to in the past tense throughout the paper (except for incomplete parts or future work)?
+The specific project location, systems, and products need to be de-identified throughout the paper? Are there any mentions of the specific location, health system, or vended products left in the paper anywhere? If so, please list the sentences where those are mentioned so thy can be corrected.
 Are the references in the references list formatted correctly? https://apastyle.apa.org/style-grammar-guidelines/references/examples
 Are inline citations formatted correctly? https://apastyle.apa.org/style-grammar-guidelines/citations
 Does every citation in the body of the paper have a corresponding reference in the references list?
 Is every reference in the references list cited somewhere in the body of the paper?
 Are there any direct quotations in the body of the paper? If so, are they cited correctly? https://apastyle.apa.org/style-grammar-guidelines/citations/quotations
-Are there any sentences in the paper that should be supported by citing a reference or appropriate evidence? If so, please write out the whole sentence and add (citation recommended) at the end of the sentence text and before the final punctuation.
-Are tables located at the end of the paper after the references?
+Are there any sentences in the paper that should be supported by citing a reference or appropriate evidence? If so, please list the section of the paper where the sentence appears, write out the whole sentence, and add (citation recommended) at the end of the sentence text and before the final punctuation.
+Are tables located at the end of the paper after the references and not in the body of the paper?
+Are tables numbered in the order in which they're first mentioned in the body of the paper?
 Are tables formatted correctly? https://apastyle.apa.org/style-grammar-guidelines/tables-figures/tables
-Are figures located at the end of the paper after the references and the tables?
+Are figures located at the end of the paper after the references and the tables and not in the body of the paper?
+Are figures numbered in the order in which they're first mentioned in the body of the paper?
 Are figures formatted correctly? https://apastyle.apa.org/style-grammar-guidelines/tables-figures/figures
 Are there appendices at the end of the paper after the tables and figures?
+Are appendices lettered in the order in which they're mentioned in the body of the paper?
 Are the appendices formatted correctly?
+Please list each section of the paper and then list the APA formatting problems relevant to that section.
 ```
 
 **Conversation starters**
