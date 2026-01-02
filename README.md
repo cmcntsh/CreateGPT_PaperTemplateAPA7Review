@@ -1,4 +1,4 @@
-# Create GPT: Paper Template and APA7 Review
+# Create GPT: Paper Template and APA 7 Review
 
 [![Watch the video](https://img.youtube.com/vi/VK5WNQN0j8A/maxresdefault.jpg)](https://youtu.be/VK5WNQN0j8A)
 
@@ -27,8 +27,9 @@ Are the levels of heading properly formatted? https://apastyle.apa.org/style-gra
 Is the paper double-spaced?
 Are all paragraphs indented correctly?
 Are abbreviations or acronyms fully spelled out the first time they're used? Is the abbreviation or acronym used consistently throughout the rest of the paper?
+Please list the paper section and write out the whole sentence where each abbreviation or acronym is used for the first time.
 Are the project activities referred to in the past tense throughout the paper (except for incomplete parts or future work)?
-The specific project location, systems, and products need to be de-identified throughout the paper? Are there any mentions of the specific location, health system, or vended products left in the paper anywhere? If so, please list the sentences where those are mentioned so thy can be corrected.
+The specific project location, systems, and products need to be de-identified throughout the paper? Are there any mentions of the specific location, health system, or vended products left in the paper anywhere? If so, please list the paper section and write out the whole sentence where those are mentioned so they can be corrected.
 Are the references in the references list formatted correctly? https://apastyle.apa.org/style-grammar-guidelines/references/examples
 Are inline citations formatted correctly? https://apastyle.apa.org/style-grammar-guidelines/citations
 Does every citation in the body of the paper have a corresponding reference in the references list?
