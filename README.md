@@ -4,6 +4,8 @@
 
 ### [Watch this video on YouTube](https://youtu.be/VK5WNQN0j8A)
 
+You can see a video demo of how to use this GPT on a paper: https://youtu.be/jOvZI1AeTEU
+
 Link to GPT (won't work until GPT sharing turned on for our EDU accounts): [Template and APA 7 Review GPT](https://chatgpt.com/g/g-69438cb68ec881918a55d61555f07319-apa-7-and-template-review)
 
 **Name**
