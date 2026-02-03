@@ -36,6 +36,7 @@ Are the references in the references list formatted correctly? https://apastyle.
 Are inline citations formatted correctly? https://apastyle.apa.org/style-grammar-guidelines/citations
 Does every citation in the body of the paper have a corresponding reference in the references list?
 Is every reference in the references list cited somewhere in the body of the paper?
+Please verify if the references in the references list actually exist and that the information is correct.
 Are there any direct quotations in the body of the paper? If so, are they cited correctly? https://apastyle.apa.org/style-grammar-guidelines/citations/quotations
 Are there any sentences in the paper that should be supported by citing a reference or appropriate evidence? If so, please list the section of the paper where the sentence appears, write out the whole sentence, and add (citation recommended) at the end of the sentence text and before the final punctuation.
 Are tables located at the end of the paper after the references and not in the body of the paper?
